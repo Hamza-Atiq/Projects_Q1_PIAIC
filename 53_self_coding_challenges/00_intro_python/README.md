@@ -1,4 +1,3 @@
-
 # Python Addition Program
 
 This repository contains a simple Python program that prompts the user to input two numbers, adds them together, and displays the result. This program demonstrates basic Python concepts, including user input, exception handling, and formatted output.
